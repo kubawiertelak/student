@@ -1,0 +1,21 @@
+html {
+    background-color: midnightblue;
+    color: white;
+}
+header {
+    text-align: center;
+    font-size: 32px;
+    background-color: blueviolet;
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+
+
+* {
+
+}

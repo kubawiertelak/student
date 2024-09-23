@@ -8,6 +8,6 @@ btn.addEventListener('click', function() {
    // wynik.innerHTML = 'Cześć ' + imie.tekst + '!!!!'
 wynik.innerHTML =
     `
-    Cześć  ${imie_tekst}!!!! <br> Miło Cię widzieć na naszej stronie.
+    Cześć ${imie_tekst}!!!! <br> Miło Cię widzieć na naszej stronie.
     `
 })

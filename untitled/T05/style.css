@@ -1,0 +1,21 @@
+body {
+    background-color: floralwhite;
+}
+header {
+    background-color:whitesmoke;
+    text-align: center;
+    color: black;
+
+}
+p {
+    font-size: 17px;
+    font-weight: bold;
+    color: slateblue;
+}
+h2 {
+    color:darkslateblue;
+}
+.h {
+    color: black;
+}
+

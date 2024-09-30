@@ -1,0 +1,21 @@
+body {
+background-color:darkorange;
+    color: bisque;
+}
+p {
+text-align: center;
+    margin: auto;
+    border: brown 1px dotted;
+}
+h2 {
+text-align: center;
+    color: black;
+}
+header {
+    text-align: center;
+    color: black;
+}
+.b {
+    text-align: justify;
+    color: darkslategray;
+}

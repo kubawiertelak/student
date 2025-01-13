@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+    font-family: Arial;
+}
+header {
+    background-color: brown;
+    color: bisque;
+    padding: 20px;
+}
+section {
+    background-color: #e3c199;
+    border: brown 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top:5px;
+}
+#wynik {
+    background-color: #e3c188;
+}
+input {
+    margin-bottom: 5px;
+}

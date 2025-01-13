@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="UTF-8">
+  <title>T25</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>T25a</h1>
+  <h2>Jakub Wiertelak</h2>
+  <hr>
+</header>
+<section>
+  <script>
+    let osoba = {
+      nazwisko: "Nowacki",
+      imie:"Marek",
+      zawod:"informatyk",
+      pokaz: function() {
+        document.write(this.nazwisko + ' ' + this.imie + '<br>');
+      }
+    };
+    osoba.pokaz();
+
+    let piesek = {
+      imie: "Sonia",
+      rasa: "mieszaniec",
+      info: function() {
+        document.write(`Jestem psem. Mam na imię ${this.imie}. Moja rasa to ${this.rasa}.<br>`)
+      },
+      zaszczekaj: function (){
+        document.write('Hau, hau !!!<br>');
+      }
+    }
+    piesek.info();
+    piesek.zaszczekaj.info();
+  </script>
+</section>
+</body>
+</html>
